@@ -12,7 +12,7 @@ public class TestController {
 
   @GetMapping
   public String testPage() {
-    return "test";
+    return "test webhook";
   }
 
 }
